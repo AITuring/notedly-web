@@ -21,7 +21,7 @@ const Main = styled.main`
     position: fixed;
     height: calc(100% - 185px);
     width: 100%;
-    padding: 1rem;
+    padding: 1em;
     overflow-y: scroll;
     @media (min-width: 700px) {
         flex: 1;
